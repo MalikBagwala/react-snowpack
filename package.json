@@ -14,6 +14,7 @@
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
     "@babel/preset-typescript": "^7.10.4",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
     "@snowpack/app-scripts-react": "^1.12.5",
     "@snowpack/plugin-dotenv": "^2.0.4",
     "@snowpack/plugin-react-refresh": "^2.3.4",
